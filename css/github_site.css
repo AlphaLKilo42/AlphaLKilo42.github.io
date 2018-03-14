@@ -1,0 +1,10 @@
+h1 {
+font-size: 200%;
+color: #000;
+}
+body {
+font-size: 150%;
+}
+a:hover {
+color: #4D4D4D;
+}
