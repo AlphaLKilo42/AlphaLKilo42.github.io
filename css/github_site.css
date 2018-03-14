@@ -1,9 +1,11 @@
 h1 {
+  position: fixed;
   text-align: center;
   font-size: 200%;
   color: #000;
 }
 body {
+  position: fixed;
   text-align: center;
   font-size: 150%;
 }
