@@ -15,6 +15,6 @@ div {
   left: 45%;
   top: 98%;
 }
-a {
+a:link, a:hover, a:visited {
   color: #717171;
 }
