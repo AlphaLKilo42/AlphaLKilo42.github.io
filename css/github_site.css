@@ -10,10 +10,10 @@ img {
   height: 50%;
 }
 div {
-  font-size: 50%;
+  font-size: 25%;
   left: 45%;
   top: 98%;
 }
-div:link, div:hover, div:visited {
-  color: #717171;
+div:link, div:hover, div:visited, div:active {
+  color: #000;
 }
