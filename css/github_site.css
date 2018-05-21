@@ -17,3 +17,9 @@ img {
   width: 50%;
   height: 50%;
 }
+div {
+  font-size: 50%;
+  color: #717171;
+  left: 45%;
+  top: 98%;
+}
