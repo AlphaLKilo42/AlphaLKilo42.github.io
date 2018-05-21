@@ -17,3 +17,6 @@ div {
 div:link, div:hover, div:visited, div:active {
   color: #000;
 }
+body {
+ background-color: #717171; 
+}
